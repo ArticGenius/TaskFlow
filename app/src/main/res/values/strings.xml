@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TaskFlowProject</string>
+    <string name="main_card_name">tareas principales</string>
+    <string name="second_card_name">tareas secundarias</string>
+    <string name="finished_card_name">tareas finalizadas</string>
+    <string name="task_name">Añade un nombre para la tarea</string>
+    <string name="date_and_time">Fecha y hora</string>
+    <string name="location">Añadir ubicación</string>
+    <string name="notification">Añadir notificación</string>
+    <string name="type_of_task">Tipo de tarea</string>
+    <string-array name="spinner_options">
+        <item>Tareas Principales</item>
+        <item>Tareas Secundarias</item>
+        <item>Tareas Finalizadas</item>
+    </string-array>
+    <string name="addTask">Añadir tarea</string>
+    <string name="email">Email</string>
+    <string name="password">Contraseña</string>
+    <string name="singup">Registrar</string>
+    <string name="login">Acceder</string>
+    <string name="provier">Tipo de inicio de sesión</string>
+    <string name="close_sesion">Cerrar Sesión</string>
+    <string name="prefs_file">com.adriancanon.taskflowproject.PREFERENCE_FILE_KEY</string>
+    <string name="default_web_client_id">882397259163</string>
+    <string name="show_location">Ver o cambiar la ubicación</string>
+    <string name="taskname">Nombre de la tarea</string>
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name ="recover">Recuperar</string>
+    <string name="adress">Calle, nuemo, piso, etc</string>
+    <string name="phone_number">Número de telefono</string>
+</resources>
